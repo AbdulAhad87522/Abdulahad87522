@@ -25,6 +25,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=AbdulAhad87522&show_icons=true&theme=radical" alt="Abdul Ahad's GitHub stats" />
 </p>
 
+
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulAhad87522&layout=compact&theme=radical" alt="Top Languages"/>
 
@@ -34,6 +36,11 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulAhad87522&theme=radical" alt="GitHub Streak" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulAhad87522&theme=react-dark" alt="GitHub Contribution Graph"/>
+</p>
+
 
 ---
 
