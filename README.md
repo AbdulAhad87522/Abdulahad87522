@@ -38,8 +38,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulAhad87522&theme=react-dark" alt="GitHub Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulAhad87522&theme=react-dark&hide_border=true" alt="GitHub Contribution Graph"/>
 </p>
+
 
 
 ---
