@@ -29,11 +29,11 @@
 ## 📫 Connect with Me  
 
 <p align="left">
-  <a href="mailto:ahad.dev87522@gmail.com" target="_blank">
+  <a href="mailto:abdulahad18022@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   
-  <a href="https://www.linkedin.com/in/abdul-ahad87522" target="_blank">
+  <a href="[https://www.linkedin.com/in/abdul-ahad87522](https://www.linkedin.com/in/abdul-ahad-29199a327?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
