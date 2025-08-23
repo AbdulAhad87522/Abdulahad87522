@@ -21,7 +21,7 @@
 
 ## 🤝 Let’s Connect
 - 💬 Ask me about: `.NET`, `ASP.NET Core`, `HTML/CSS/JS basics`  
-- 📫 Reach me at: **ahad.dev87522@gmail.com**  
+- 📫 Reach me at: **abdulahad18022@gmail.com**  
 - 🌍 Always open to learning, collaborating, and new opportunities!  
 
 ---
