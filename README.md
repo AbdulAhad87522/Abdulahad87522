@@ -25,7 +25,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=AbdulAhad87522&show_icons=true&theme=radical" alt="Abdul Ahad's GitHub stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?AbdulAhad87522=AbdulAhad87522&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
 
