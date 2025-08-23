@@ -23,9 +23,11 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AbdulAhad87522&show_icons=true&theme=radical" alt="Abdul Ahad's GitHub stats" />
-  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=YourUsername&theme=react-dark)
-
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulAhad87522&theme=radical" alt="GitHub Streak" />
