@@ -37,8 +37,12 @@
 
 ---
 
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+## 🏆 GitHub Trophies  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AbdulAhad87522&theme=radical&no-frame=false&no-bg=false&margin-w=15&margin-h=15&row=2&column=4" alt="GitHub Trophies"/>
+</p>
+
 
 
 ---
