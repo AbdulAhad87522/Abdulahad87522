@@ -23,6 +23,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AbdulAhad87522&show_icons=true&theme=radical" alt="Abdul Ahad's GitHub stats" />
+  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=YourUsername&theme=react-dark)
+
 </p>
 
 <p align="center">
