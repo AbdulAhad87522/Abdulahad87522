@@ -23,10 +23,12 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AbdulAhad87522&show_icons=true&theme=radical" alt="Abdul Ahad's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?AbdulAhad87522=AbdulAhad87522&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
-<!-- <p align="center">
-</p> -->
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulAhad87522&layout=compact&theme=radical" alt="Top Languages"/>
+
+</p> 
 
 
 <p align="center">
