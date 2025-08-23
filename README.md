@@ -35,11 +35,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulAhad87522&theme=radical" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulAhad87522&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-
 ---
 
 ## 🤝 Let’s Connect
