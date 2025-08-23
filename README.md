@@ -37,6 +37,12 @@
 
 ---
 
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+---
+
 ## 🤝 Let’s Connect
 - 💬 Ask me about: `.NET`, `ASP.NET Core`, `HTML/CSS/JS basics`  
 - 📫 Reach me at: **abdulahad18022@gmail.com**  
