@@ -1,33 +1,32 @@
 # Hi there 👋 I'm Abdul Ahad  
 
-🚀 Passionate **Computer Science Student** at UET Lahore | Building modern applications with **.NET, ASP.NET Core, and MERN Stack**.  
+🎓 A **Computer Science Student** at UET Lahore | Exploring the world of **.NET, ASP.NET Core, and MERN Stack**  
 
 ---
 
-## 💻 What I Do
-- 🌐 Full-stack development with **MERN (MongoDB, Express.js, React, Node.js)**  
-- 🖥 Backend and enterprise apps with **.NET, ASP.NET, ASP.NET Core**  
-- 🗄 Database design and management (MySQL, SQL Server, MongoDB)  
-- 🎨 Currently polishing my **HTML, CSS, and JavaScript** skills for strong fundamentals  
+## 💻 What I’m Doing
+- 🌱 Actively learning **.NET, ASP.NET, and ASP.NET Core**  
+- 🎨 Improving my fundamentals in **HTML, CSS, and JavaScript**  
+- 🔎 Exploring the **MERN Stack (MongoDB, Express.js, React, Node.js)** step by step  
+- 🗄 Getting hands-on with **Databases** (SQL Server, MySQL, MongoDB)  
 
 ---
 
-## 🌱 Currently Learning
-- Advanced concepts in **.NET Core & Web APIs**  
-- **React.js** and scalable **MERN applications**  
-- **Software architecture** & clean coding practices  
+## 🚀 Goals
+- Build strong backend skills with **.NET Core & Web APIs**  
+- Develop my first **full-stack MERN project**  
+- Understand **clean coding & software architecture** basics  
 
 ---
 
 ## 🤝 Let’s Connect
-- 💬 Ask me about: `.NET`, `ASP.NET Core`, `MERN`, `Databases`  
-- 📫 Reach me at: **[your email/github link]**  
-- 🌍 Always open to collaboration and exciting projects!  
+- 💬 Ask me about: `.NET`, `ASP.NET Core`, `HTML/CSS/JS basics`  
+- 📫 Reach me at: **ahad.dev87522@gmail.com**  
+- 🌍 Always open to learning, collaborating, and new opportunities!  
 
 ---
 
-## Contact
-- ## 📫 Connect with Me  
+## 📫 Connect with Me  
 
 <p align="left">
   <a href="mailto:ahad.dev87522@gmail.com" target="_blank">
@@ -41,11 +40,8 @@
   <a href="https://github.com/AbdulAhad87522" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-
-  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
 </p>
 
+---
 
-⚡ *Fun fact: I love turning real-world problems into digital solutions 🚀*  
+⚡ *Fun fact: I’m a curious learner who loves turning ideas into real-world digital solutions 🚀*  
