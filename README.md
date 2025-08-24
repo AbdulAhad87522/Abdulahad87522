@@ -41,18 +41,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulAhad87522&theme=react-dark&hide_border=true" alt="GitHub Contribution Graph"/>
 </p>
 
-
-
----
-
-## 🏆 GitHub Trophies  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AbdulAhad87522&theme=radical&no-frame=false&no-bg=false&margin-w=15&margin-h=15&row=2&column=4" alt="GitHub Trophies"/>
-</p>
-
-
-
 ---
 
 ## 🤝 Let’s Connect
