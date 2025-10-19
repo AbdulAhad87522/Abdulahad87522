@@ -20,8 +20,10 @@
 ---
 
 ## Achieved Goals
--Succesfully installed one POS in a medical store
--Successfully installed one management system for a doctor Aziz Fatima Hospital, Faisalabad
+-Succesfully installed one POS in a medical store**
+-Successfully installed one management system for a doctor Aziz Fatima Hospital, Faisalabad**
+
+---
 
 ## 📊 GitHub Stats
 
