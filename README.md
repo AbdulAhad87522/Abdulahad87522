@@ -20,7 +20,7 @@
 ---
 
 ## Achieved Goals
--Succesfully installed one **POS in a medical store**
+-Succesfully installed one **POS for a medical store**
 -Successfully installed one management system for a **doctor Aziz Fatima Hospital, Faisalabad**
 
 ---
